@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9543c2bc-e27f-4e08-9352-2f34d94816f6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/MoveToEnemyState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/EnemyHealth/EnemyHealth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/ReturnToPositionState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/CommandAttack.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/IState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/HeroCapsule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/StrategyPatternAttacks/PhysicalDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TestProject/Assets/FG20GP_FT_DesignPatternsForGameDevelopment/StateMachineUsingInterfaces/Scripts/StateMachine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Mono/MonoHeroCapsule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/AttackState.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/CommandAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/MyScripts/HeroesList.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/IState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/WaitState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/MoveToEnemyState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/ReturnToPositionState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/DamageIndicator/Factory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/EnemyHealth/EnemyHealth.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/AttackState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/StrategyPatternAttacks/IAttack.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/StrategyPatternAttacks/MagicalDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/StrategyPatternAttacks/PhysicalDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/HeroCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/AttackPreperationState.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/CommandSwitchWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/HeroCapsule.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/HeroSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Heros/Hero.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Mono/MonoHeroCapsule.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Mono/MonoHeroCube.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Mono/MonoHeroSphere.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/Factory/Factory.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/HeroStates/StateMachine.cs" />
+        <option value="$PROJECT_DIR$/Assets/FutureGames/JRPG_Rocket/Scripts/EnemyHealth/HealthBar.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jS63Dtj9QYspeSXF7eNVNRdRQk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9543c2bc-e27f-4e08-9352-2f34d94816f6" name="Default Changelist" comment="" />
+      <created>1603785004243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603785004243</updated>
+      <workItem from="1603785117528" duration="20137000" />
+      <workItem from="1603874559939" duration="8427000" />
+      <workItem from="1603960620042" duration="4496000" />
+      <workItem from="1603982051762" duration="2032000" />
+      <workItem from="1604049646484" duration="6075000" />
+      <workItem from="1604579262275" duration="710000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

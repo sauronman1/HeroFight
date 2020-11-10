@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureGames.JRPG_Rocket", "FutureGames.JRPG_Rocket.csproj", "{8a73bc91-e624-6e8a-011a-61b0b63b6008}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FutureGames.Lib", "FutureGames.Lib.csproj", "{729bab4f-93b0-f43e-525f-15f0ab8abed0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8a73bc91-e624-6e8a-011a-61b0b63b6008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8a73bc91-e624-6e8a-011a-61b0b63b6008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8a73bc91-e624-6e8a-011a-61b0b63b6008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8a73bc91-e624-6e8a-011a-61b0b63b6008}.Release|Any CPU.Build.0 = Release|Any CPU
+		{729bab4f-93b0-f43e-525f-15f0ab8abed0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{729bab4f-93b0-f43e-525f-15f0ab8abed0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{729bab4f-93b0-f43e-525f-15f0ab8abed0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{729bab4f-93b0-f43e-525f-15f0ab8abed0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

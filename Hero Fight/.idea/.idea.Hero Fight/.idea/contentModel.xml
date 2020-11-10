@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aboud\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aboud\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Hero Fight.-988417655.00" t="ExcludeRecursive" />
+    <e p="D:\Unity\Hero Fight" t="IncludeRecursive">
+      <e p="Assets" t="Include">
+        <e p="FutureGames" t="Include">
+          <e p="JRPG_Rocket" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="EnemyHealth" t="Include">
+                <e p="EnemyHealth.cs" t="Include" />
+                <e p="HealthBar.cs" t="Include" />
+              </e>
+              <e p="Factory" t="Include">
+                <e p="Factory.cs" t="Include" />
+              </e>
+              <e p="FutureGames.JRPG_Rocket.asmdef" t="Include" />
+              <e p="Heros" t="Include">
+                <e p="Command.cs" t="Include" />
+                <e p="CommandAttack.cs" t="Include" />
+                <e p="CommandSwitchWeapon.cs" t="Include" />
+                <e p="Hero.cs" t="Include" />
+                <e p="HeroCapsule.cs" t="Include" />
+                <e p="HeroCube.cs" t="Include" />
+                <e p="HeroSphere.cs" t="Include" />
+              </e>
+              <e p="HeroStates" t="Include">
+                <e p="AttackPreperationState.cs" t="Include" />
+                <e p="AttackState.cs" t="Include" />
+                <e p="IState.cs" t="Include" />
+                <e p="MoveToEnemyState.cs" t="Include" />
+                <e p="ReturnToPositionState.cs" t="Include" />
+                <e p="StateMachine.cs" t="Include" />
+                <e p="WaitState.cs" t="Include" />
+              </e>
+              <e p="Mono" t="Include">
+                <e p="Mono_1.cs" t="Include" />
+                <e p="MonoHeroCapsule.cs" t="Include" />
+                <e p="MonoHeroCube.cs" t="Include" />
+                <e p="MonoHeroSphere.cs" t="Include" />
+              </e>
+              <e p="StrategyPatternAttacks" t="Include">
+                <e p="IAttack.cs" t="Include" />
+                <e p="MagicalDamage.cs" t="Include" />
+                <e p="PhysicalDamage.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Lib" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="Extensions" t="Include">
+                <e p="RectExtensions.cs" t="Include" />
+                <e p="VectorExtensions.cs" t="Include" />
+              </e>
+              <e p="FutureGames.Lib.asmdef" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FutureGames.JRPG_Rocket.csproj" t="IncludeRecursive" />
+      <e p="FutureGames.Lib.csproj" t="IncludeRecursive" />
+      <e p="Hero Fight.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
